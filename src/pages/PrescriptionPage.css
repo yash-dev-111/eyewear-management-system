@@ -1,0 +1,19 @@
+ .prescription-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .prescription-table th,
+  .prescription-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .table-responsive {
+    overflow-x: auto;
+  }
+   
+
+  
+  
